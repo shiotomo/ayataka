@@ -1,3 +1,5 @@
+exit if ARGV == []
+
 arr = ARGV
 num = Array.new(arr.length, 0)
 
